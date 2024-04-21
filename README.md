@@ -1,2 +1,2 @@
 # charts
-It is a different type of analysis steps on the data that I learn from many sources . 
+This is the extended project of social media repository where using the data visualisation tools and their steps and library the data is analysed.
